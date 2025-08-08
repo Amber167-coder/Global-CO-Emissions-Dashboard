@@ -1,5 +1,7 @@
 # Global-CO-Emissions-Dashboard
-An interactive Power BI dashboard visualizing global carbon dioxide emissions from 1991–2019.
+Interactive Power BI dashboard analyzing global CO₂ emissions and per capita carbon footprints with regional and country-level insights.
+
+Dashboard visualizing global carbon dioxide emissions from 1991–2019.
 It includes:
 
 Global & regional CO₂ emission trends
